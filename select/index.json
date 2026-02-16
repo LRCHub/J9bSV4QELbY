@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "NOW",
+  "base_artist": "稲葉浩志",
+  "createdAt": "2026-02-16T08:48:54.814085Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/01_Don't_Start_Now_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hear Me Now",
+      "artist": "Alok",
+      "has_synced": true,
+      "path": "select/02_Hear_Me_Now_Alok.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Hope You’re Happy Now",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/03_I_Hope_You’re_Happy_Now_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In The Army Now",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/04_In_The_Army_Now_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Need You Now",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/05_Need_You_Now_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Need You Now",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/06_Need_You_Now_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Now & Then",
+      "artist": "Sjowgren",
+      "has_synced": false,
+      "path": "select/07_Now_&_Then_Sjowgren.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Where Are You Now",
+      "artist": "Lost Frequencies feat. Chesqua",
+      "has_synced": true,
+      "path": "select/08_Where_Are_You_Now_Lost_Frequencies_feat._Chesqua.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Who's Laughing Now",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/09_Who's_Laughing_Now_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If Not Now, Then When?",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/10_If_Not_Now,_Then_When_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Now Is Not The Time",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/11_Now_Is_Not_The_Time_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Any Day Now",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/12_Any_Day_Now_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Any Day Now",
+      "artist": "Ronnie Milsap",
+      "has_synced": false,
+      "path": "select/13_Any_Day_Now_Ronnie_Milsap.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Any Day Now",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/14_Any_Day_Now_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Are We In Trouble Now",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/15_Are_We_In_Trouble_Now_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Are We in Trouble Now (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/16_Are_We_in_Trouble_Now_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baby, Now That I've Found You",
+      "artist": "Alison Krauss",
+      "has_synced": true,
+      "path": "select/17_Baby,_Now_That_I've_Found_You_Alison_Krauss.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NOW",
+      "artist": "稲葉 浩志",
+      "has_synced": false,
+      "path": "select/pl_01_NOW_稲葉_浩志.txt"
+    }
+  ]
+}
